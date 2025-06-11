@@ -36,7 +36,7 @@ I look forward to making new projects, trying different coding approaches, and l
   <br>
 
 ## 📊 GitHub Stats
-![GerontiusRodrigues's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GerontiusRodrigues&theme=chartreuse-dark&hide_border=true&card_width=500)      
+![GerontiusRodrigues's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GerontiusRodrigues&theme=chartreuse-dark&card_width=500&hide_border=true)      
 ![GerontiusRodrigues's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GerontiusRodrigues&theme=chartreuse-dark&show_icons=true&hide_border=true&card_width=500&layout=compact)
 
 </div>          
